@@ -5,7 +5,9 @@
 ### 날짜별
 - [2022.08.25](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md) <a>
 
-- [2022.08.31](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
+- [2022.08.31](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md) <a>
+
+- [2022.09.06](https://github.com/haneulKimaa/TIL/blob/c475856429dbddd5c416ffdcbb49d5c13a60dc63/2022/9/6.md)
 
 -----
 
