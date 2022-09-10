@@ -9,8 +9,9 @@
 
 - [2022.09.06](https://github.com/haneulKimaa/TIL/blob/c475856429dbddd5c416ffdcbb49d5c13a60dc63/2022/9/6.md) <a>
 
-- [2022.09.08](https://github.com/haneulKimaa/TIL/blob/2cd68ff572afe2b65c85fe5a7f598053c9c3db9a/2022/9/8.md)
+- [2022.09.08](https://github.com/haneulKimaa/TIL/blob/2cd68ff572afe2b65c85fe5a7f598053c9c3db9a/2022/9/8.md) <a>
 
+- [2022.09.10](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
   
 -----
 
@@ -29,3 +30,6 @@
 
 #### 자료구조 
 - [배열](https://github.com/haneulKimaa/TIL/blob/2cd68ff572afe2b65c85fe5a7f598053c9c3db9a/2022/9/8.md)
+
+#### 알고리즘
+- [시간복잡도, 공간복잡도](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
