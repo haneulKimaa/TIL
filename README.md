@@ -11,8 +11,9 @@
 
 - [2022.09.08](https://github.com/haneulKimaa/TIL/blob/2cd68ff572afe2b65c85fe5a7f598053c9c3db9a/2022/9/8.md) <a>
 
-- [2022.09.10](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
-  
+- [2022.09.10](https://almond-planet-794.notion.site/in-Swift-27fa0bd3da934bcdac5e6e107548d647)
+
+- [2022.09.16](https://almond-planet-794.notion.site/9bffb8e905394aed8654c22d07a568b8)
 -----
 
 ### 내용별
@@ -33,3 +34,12 @@
 
 #### 알고리즘
 - [시간복잡도, 공간복잡도](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
+- [공간 복잡도](https://almond-planet-794.notion.site/9761c9e5e3db47dab1f568a162c0fd2a)
+- [동적 계획법, 분할 정복](https://almond-planet-794.notion.site/12c74db626904926b274694ee15303d7)
+- [재귀 용법](https://almond-planet-794.notion.site/recursive-call-24f8a47c0da4496dadd8b3a1bdf79a8d)
+- [버블 정렬](https://www.notion.so/83129ac50b394f8dac7b5c87d544bf98)
+- [선택 정렬](https://almond-planet-794.notion.site/3ed988d1749345b68bcb426e8dfaf065)
+- [삽입 정렬](https://almond-planet-794.notion.site/in-Swift-7ba1c5298cb74348844293508e4ebcf4)
+- [퀵 정렬](https://almond-planet-794.notion.site/Quick-sort-a3cab6be34824ee28af9067043cee7b8)
+- [병합 정렬](https://almond-planet-794.notion.site/Merge-sort-e359fbbec97c47218bda08b3658ba89f)
+
