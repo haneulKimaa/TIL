@@ -15,7 +15,7 @@
 
 - [2022.09.16](https://almond-planet-794.notion.site/9bffb8e905394aed8654c22d07a568b8)
 
-- [2022.00.23](https://almond-planet-794.notion.site/a43f57fcb05445e8abc2f9c02bc02173)
+- [2022.09.23](https://almond-planet-794.notion.site/a43f57fcb05445e8abc2f9c02bc02173)
 -----
 
 ### 내용별
