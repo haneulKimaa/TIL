@@ -38,14 +38,16 @@
 - [시간복잡도, 공간복잡도](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
 - [공간 복잡도](https://almond-planet-794.notion.site/9761c9e5e3db47dab1f568a162c0fd2a)
 - [동적 계획법, 분할 정복](https://almond-planet-794.notion.site/12c74db626904926b274694ee15303d7)
-- [재귀 용법](https://almond-planet-794.notion.site/recursive-call-24f8a47c0da4496dadd8b3a1bdf79a8d) <a>
-
+- [재귀 용법](https://almond-planet-794.notion.site/recursive-call-24f8a47c0da4496dadd8b3a1bdf79a8d)
+---------------
+  
 - [버블 정렬](https://www.notion.so/83129ac50b394f8dac7b5c87d544bf98)
 - [선택 정렬](https://almond-planet-794.notion.site/3ed988d1749345b68bcb426e8dfaf065)
 - [삽입 정렬](https://almond-planet-794.notion.site/in-Swift-7ba1c5298cb74348844293508e4ebcf4)
 - [퀵 정렬](https://almond-planet-794.notion.site/Quick-sort-a3cab6be34824ee28af9067043cee7b8)
-- [합병 정렬](https://almond-planet-794.notion.site/7133c531e68a43a8a201ea15d5d41b22) <a>
-
+- [합병 정렬](https://almond-planet-794.notion.site/7133c531e68a43a8a201ea15d5d41b22)
+---------------
+  
 - [순차 탐색](https://almond-planet-794.notion.site/sequencial-search-c3b8ba9e1e7f4a61838aeec68b8204e2)
 - [이진 탐색](https://almond-planet-794.notion.site/Binary-Search-c6a49d8b6a9e4fbda3911de888786738)
 
