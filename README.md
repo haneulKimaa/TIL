@@ -2,7 +2,7 @@
 ✏️ Today I Learned 
 
 
-### 날짜별
+## 날짜별
 - [2022.08.25](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md) <a>
 
 - [2022.08.31](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md) <a>
@@ -11,30 +11,32 @@
 
 - [2022.09.08](https://github.com/haneulKimaa/TIL/blob/2cd68ff572afe2b65c85fe5a7f598053c9c3db9a/2022/9/8.md) <a>
 
-- [2022.09.10](https://almond-planet-794.notion.site/in-Swift-27fa0bd3da934bcdac5e6e107548d647)
+- [2022.09.10](https://almond-planet-794.notion.site/in-Swift-27fa0bd3da934bcdac5e6e107548d647) <a>
 
-- [2022.09.16](https://almond-planet-794.notion.site/9bffb8e905394aed8654c22d07a568b8)
+- [2022.09.16](https://almond-planet-794.notion.site/9bffb8e905394aed8654c22d07a568b8) <a>
+  
+- [2022.09.18](https://almond-planet-794.notion.site/9bffb8e905394aed8654c22d07a568b8) <a>
 
 - [2022.09.23](https://almond-planet-794.notion.site/a43f57fcb05445e8abc2f9c02bc02173)
------
 
-### 내용별
-#### Swift
+
+## 내용별
+### Swift
 - [completion, @escaping](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
 - [@escaping 추가 내용](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [ARC](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [Property](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [순환참조](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 
-#### RxSwift
+### RxSwift
 - [기본 개념 1](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
-#### Design Pattern
+### Design Pattern
 - [MVVM 기본 개념](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
 
-#### 자료구조 
+### 자료구조 
 - [배열](https://github.com/haneulKimaa/TIL/blob/2cd68ff572afe2b65c85fe5a7f598053c9c3db9a/2022/9/8.md)
 
-#### 알고리즘
+### 알고리즘
 - [시간복잡도, 공간복잡도](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
 - [공간 복잡도](https://almond-planet-794.notion.site/9761c9e5e3db47dab1f568a162c0fd2a)
 - [동적 계획법, 분할 정복](https://almond-planet-794.notion.site/12c74db626904926b274694ee15303d7)
