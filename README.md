@@ -17,7 +17,9 @@
   
 - [2022.09.18](https://almond-planet-794.notion.site/9bffb8e905394aed8654c22d07a568b8) <a>
 
-- [2022.09.23](https://almond-planet-794.notion.site/a43f57fcb05445e8abc2f9c02bc02173)
+- [2022.09.23](https://almond-planet-794.notion.site/a43f57fcb05445e8abc2f9c02bc02173) <a>
+
+- [2022.09.30](https://www.notion.so/b402c1e922a74c0c9582c38fc5c920e3)
 
 
 ## 내용별
@@ -53,4 +55,8 @@
 - [순차 탐색](https://almond-planet-794.notion.site/sequencial-search-c3b8ba9e1e7f4a61838aeec68b8204e2)
 - [이진 탐색](https://almond-planet-794.notion.site/Binary-Search-c6a49d8b6a9e4fbda3911de888786738)
 
+### 데이터베이스
+- [데이터베이스 시스템](https://almond-planet-794.notion.site/853ca26fd16c43348816d40b4e594257)
 
+### 운영체제
+- [다중프로그래밍, 시분할, 인터럽트](https://almond-planet-794.notion.site/842f162083bc4ca785f40c829028d673)
