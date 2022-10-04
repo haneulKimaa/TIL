@@ -21,7 +21,9 @@
 
 - [2022.09.30](https://www.notion.so/b402c1e922a74c0c9582c38fc5c920e3) <a>
 
-- [2022.10.01](https://almond-planet-794.notion.site/91f7bc67ecd845ef8929fb730a0a3252)
+- [2022.10.01](https://almond-planet-794.notion.site/91f7bc67ecd845ef8929fb730a0a3252) <a>
+
+- [2022.10.04](https://almond-planet-794.notion.site/5-5e4af616bc84467fa5f922c7646f9c6c)
 
 
 ## 내용별
@@ -34,7 +36,8 @@
 
 ### RxSwift
 - [기본 개념 1](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
-### Design Pattern
+
+### Architecture
 - [MVVM 기본 개념](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
 
 ### 자료구조 
@@ -67,3 +70,6 @@
 
 ### 운영체제
 - [다중프로그래밍, 시분할, 인터럽트](https://almond-planet-794.notion.site/842f162083bc4ca785f40c829028d673)
+
+### ETC
+- [SOLID 원칙](https://almond-planet-794.notion.site/5-5e4af616bc84467fa5f922c7646f9c6c)
