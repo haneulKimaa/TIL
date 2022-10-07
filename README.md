@@ -23,7 +23,11 @@
 
 - [2022.10.01](https://almond-planet-794.notion.site/91f7bc67ecd845ef8929fb730a0a3252) <a>
 
-- [2022.10.04](https://almond-planet-794.notion.site/5-5e4af616bc84467fa5f922c7646f9c6c)
+- [2022.10.04](https://almond-planet-794.notion.site/5-5e4af616bc84467fa5f922c7646f9c6c) <a>
+  
+- [2022.10.06](https://www.notion.so/e0aa10a8586b477eb8d5f830beac44db) <a>
+  
+- [2022.10.07](https://almond-planet-794.notion.site/d8c60f073fc749ceaaaae8becbedd352)
 
 
 ## 내용별
@@ -43,6 +47,8 @@
 ### 자료구조 
 - [배열](https://github.com/haneulKimaa/TIL/blob/2cd68ff572afe2b65c85fe5a7f598053c9c3db9a/2022/9/8.md)
 - [그래프](https://almond-planet-794.notion.site/0dfe4ade929b4c8db5ec419f901633a7)
+- [트리](https://almond-planet-794.notion.site/21d30487b2a64fd880929f984527bc9a)
+- [힙](https://www.notion.so/Heap-49b4660489574ae197fbf6e10577c84b)
 
 ### 알고리즘
 - [시간복잡도, 공간복잡도](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
@@ -63,6 +69,7 @@
 - [이진 탐색](https://almond-planet-794.notion.site/Binary-Search-c6a49d8b6a9e4fbda3911de888786738)
 - [너비 우선 탐색](https://almond-planet-794.notion.site/Breadth-First-Search-5f55863af6dc44d884a2cbb05d187068)
 - [깊이 우선 탐색](https://almond-planet-794.notion.site/Depth-First-Search-15ba7c31a22545429a128310e50a92e0)
+- [최단 경로 알고리즘](https://almond-planet-794.notion.site/ac89c6b33ed14831ba46f5a7f7d0e24c)
 
 ### 데이터베이스
 - [데이터베이스 시스템](https://almond-planet-794.notion.site/853ca26fd16c43348816d40b4e594257)
