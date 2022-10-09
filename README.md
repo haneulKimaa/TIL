@@ -27,7 +27,9 @@
   
 - [2022.10.06](https://www.notion.so/e0aa10a8586b477eb8d5f830beac44db) <a>
   
-- [2022.10.07](https://almond-planet-794.notion.site/d8c60f073fc749ceaaaae8becbedd352)
+- [2022.10.07](https://almond-planet-794.notion.site/d8c60f073fc749ceaaaae8becbedd352) <a>
+
+- [2022.10.09](https://almond-planet-794.notion.site/5fcad2c9d7534662b9563739df8fd4b1)
 
 
 ## 내용별
@@ -77,6 +79,9 @@
 
 ### 운영체제
 - [다중프로그래밍, 시분할, 인터럽트](https://almond-planet-794.notion.site/842f162083bc4ca785f40c829028d673)
+
+### 네트워크 
+- [컴퓨터 네트워크 개요](https://almond-planet-794.notion.site/5fcad2c9d7534662b9563739df8fd4b1)
 
 ### ETC
 - [SOLID 원칙](https://almond-planet-794.notion.site/5-5e4af616bc84467fa5f922c7646f9c6c)
