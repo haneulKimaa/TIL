@@ -31,6 +31,7 @@
 
 - [2022.10.09](https://almond-planet-794.notion.site/5fcad2c9d7534662b9563739df8fd4b1)
 
+- [2022.11.03](https://almond-planet-794.notion.site/813255dcc4974012b32b0dc9675253d4)
 
 ## 내용별
 ### Swift
@@ -78,7 +79,9 @@
 - [관계형 데이터베이스, 무결성 제약조건, 관계대수](https://almond-planet-794.notion.site/d0c9a07fa7404a538543065647e19ebf)
 
 ### 운영체제
+- [운영체제 기능](https://almond-planet-794.notion.site/08365c62f45a43f0b37443178af99b1b)
 - [다중프로그래밍, 시분할, 인터럽트](https://almond-planet-794.notion.site/842f162083bc4ca785f40c829028d673)
+- [시스템 콜](https://almond-planet-794.notion.site/System-Call-9af17b6eab34499597a6e47d2f271c74)
 
 ### 네트워크 
 - [컴퓨터 네트워크 개요](https://almond-planet-794.notion.site/5fcad2c9d7534662b9563739df8fd4b1)
