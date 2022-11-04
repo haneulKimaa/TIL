@@ -52,6 +52,7 @@
 - [그래프](https://almond-planet-794.notion.site/0dfe4ade929b4c8db5ec419f901633a7)
 - [트리](https://almond-planet-794.notion.site/21d30487b2a64fd880929f984527bc9a)
 - [힙](https://www.notion.so/Heap-49b4660489574ae197fbf6e10577c84b)
+- [최소 신장 트리](https://almond-planet-794.notion.site/Minimum-Spanning-Tree-4d71d271801b4a4ca198b12870c784ff)
 
 ### 알고리즘
 - [시간복잡도, 공간복잡도](https://github.com/haneulKimaa/TIL/blob/faf62b18c9fa092e5e210ee3a8235b43cc09a28b/2022/9/10.md)
@@ -72,7 +73,10 @@
 - [이진 탐색](https://almond-planet-794.notion.site/Binary-Search-c6a49d8b6a9e4fbda3911de888786738)
 - [너비 우선 탐색](https://almond-planet-794.notion.site/Breadth-First-Search-5f55863af6dc44d884a2cbb05d187068)
 - [깊이 우선 탐색](https://almond-planet-794.notion.site/Depth-First-Search-15ba7c31a22545429a128310e50a92e0)
-- [최단 경로 알고리즘](https://almond-planet-794.notion.site/ac89c6b33ed14831ba46f5a7f7d0e24c)
+- [탐욕 알고리즘](https://almond-planet-794.notion.site/Greedy-algorithm-0b41ade30edb423fb8ce934ee6b3da9d)
+- [Union Find 알고리즘](https://almond-planet-794.notion.site/Union-Find-e56d994a4edd4b5d8a39f663d7d716af)
+- [최단 경로 알고리즘 - 다익스트라](https://almond-planet-794.notion.site/ac89c6b33ed14831ba46f5a7f7d0e24c)
+- [최소 신장 트리 알고리즘 - 크루스칼 알고리즘](https://almond-planet-794.notion.site/Kruskal-s-algorithm-a3c283618b91420bbabb77a0e0ddbf1e)
 
 ### 데이터베이스
 - [데이터베이스 시스템](https://almond-planet-794.notion.site/853ca26fd16c43348816d40b4e594257)
