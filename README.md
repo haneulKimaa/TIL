@@ -77,6 +77,7 @@
 - [Union Find 알고리즘](https://almond-planet-794.notion.site/Union-Find-e56d994a4edd4b5d8a39f663d7d716af)
 - [최단 경로 알고리즘 - 다익스트라](https://almond-planet-794.notion.site/ac89c6b33ed14831ba46f5a7f7d0e24c)
 - [최소 신장 트리 알고리즘 - 크루스칼 알고리즘](https://almond-planet-794.notion.site/Kruskal-s-algorithm-a3c283618b91420bbabb77a0e0ddbf1e)
+- [최소 신장 트리 알고리즘 - 프림 알고리즘](https://almond-planet-794.notion.site/Prim-s-algorithm-a7e7c26ce2bb4e3580b216f126791b48)
 
 ### 데이터베이스
 - [데이터베이스 시스템](https://almond-planet-794.notion.site/853ca26fd16c43348816d40b4e594257)
