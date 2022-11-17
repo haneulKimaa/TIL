@@ -45,6 +45,7 @@
 - [2022.11.04](https://www.notion.so/c662b15ba28e41e389a7a94a0498eaa1)
 - [2022.11.14](https://almond-planet-794.notion.site/backtracking-N-Queen-431a4867cd1243e9aad8d7380fd3b8af)
 - [2022.11.16](https://www.notion.so/GCD-UIApplication-RxSwift-Scheduler-3f864a3edf9948e8b2b73df7525fc5c2)
+- [2022.11.17](https://www.notion.so/URL-URLComponent-URLSession-af87aa4a70f441368c3144672c296f47)
 
 </details>
 
@@ -56,6 +57,7 @@
 ### iOS
 - [GCD(Grand Central Dispatch API)](https://almond-planet-794.notion.site/GCD-Grand-Central-Dispatch-API-2b1cbef3b8ea43768c13dfa206b6f84b)
 - [UIApplication, UIResponder](https://almond-planet-794.notion.site/UIApplication-UIResponder-65d98f24270f4d3e9591fbc0c3d243f9)
+- [URL, URLComponent, URLSession](https://www.notion.so/URL-URLComponent-URLSession-af87aa4a70f441368c3144672c296f47)
 
 ### Swift
 - [completion, @escaping](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
