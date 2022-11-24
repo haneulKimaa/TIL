@@ -46,6 +46,7 @@
 - [2022.11.14](https://almond-planet-794.notion.site/backtracking-N-Queen-431a4867cd1243e9aad8d7380fd3b8af)
 - [2022.11.16](https://www.notion.so/GCD-UIApplication-RxSwift-Scheduler-3f864a3edf9948e8b2b73df7525fc5c2)
 - [2022.11.17](https://www.notion.so/URL-URLComponent-URLSession-af87aa4a70f441368c3144672c296f47)
+- [2022.11.24](https://almond-planet-794.notion.site/RxSwift-Create-Subject-Relay-Dispose-0e75bffdda1848b4b9b0e96d7e32d965)
 
 </details>
 
@@ -69,6 +70,12 @@
 ### RxSwift
 - [기본 개념](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
 - [Scheduler](https://www.notion.so/MainScheduler-instance-MainScheduler-asyncInstance-c151869cb26e41dbaf0dab3b1bb1d351)
+- [Operator - Filtering](https://almond-planet-794.notion.site/Operator-filtering-opertor-233fb2f4e7964d69b3414ae630366ed6)
+- [Debounce, Throttle](https://almond-planet-794.notion.site/Debounce-Throttle-dfddca24996f43b5b080fb24b4c66851)
+- [Create](https://almond-planet-794.notion.site/Create-a2d4afe6596e4d218dcbfc19e2dc41eb)
+- [Subject, Variable](https://almond-planet-794.notion.site/Subject-Variable-3cd29d6bc16c4c38a8f77430b6eb9998)
+- [Relay](https://almond-planet-794.notion.site/Relay-2310418642694f63bc0ffb272d18acdc)
+- [Dispose](https://almond-planet-794.notion.site/Disposable-leak-83bf6e513069419aba500a2a9826dff6)
 
 ### Architecture
 - [MVVM 기본 개념](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
