@@ -50,6 +50,13 @@
 
 </details>
 
+<details markdown="1">
+<summary>2022.12</summary>
+
+- [2022.12.06](https://almond-planet-794.notion.site/KVO-RxSwift-5003827ac7294ab3bf7781232bf036e0)
+
+</details>
+
 <br>
 
 
@@ -66,8 +73,10 @@
 - [ARC](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [Property](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [순환참조](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
+- [Key Value Observing](https://almond-planet-794.notion.site/KVO-Key-Value-Observing-0ed60c4490fa4cb8b4afa5f965bebefe)
 
 ### RxSwift
+- [RxSwift란 무엇인가? 왜 사용하는가?](https://almond-planet-794.notion.site/ReactiveX-RxSwift-fa0a465f4c294bff97d7f05d7c5a4205)
 - [기본 개념](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
 - [Scheduler](https://www.notion.so/MainScheduler-instance-MainScheduler-asyncInstance-c151869cb26e41dbaf0dab3b1bb1d351)
 - [Operator - Filtering](https://almond-planet-794.notion.site/Operator-filtering-opertor-233fb2f4e7964d69b3414ae630366ed6)
