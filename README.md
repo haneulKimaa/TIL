@@ -54,6 +54,7 @@
 <summary>2022.12</summary>
 
 - [2022.12.06](https://almond-planet-794.notion.site/KVO-RxSwift-5003827ac7294ab3bf7781232bf036e0)
+- [2022.12.07](https://almond-planet-794.notion.site/Swift-iOS-f4a2cc80b7054d6d9fb228a9d37848df)
 
 </details>
 
@@ -63,17 +64,29 @@
 ## 내용별
 
 ### iOS
+- [Cocoa Touch, UIKit, Foundation이란?](https://www.notion.so/Cocoa-Touch-UIKit-8465b9c1874445e9a8299e4c5558cf3c)
+- [App life cycle, View Controller life cycle](https://www.notion.so/App-life-cycle-View-Controller-life-cycle-67c26ff9e4e8448d833678c1a0f0b728)
+
 - [GCD(Grand Central Dispatch API)](https://almond-planet-794.notion.site/GCD-Grand-Central-Dispatch-API-2b1cbef3b8ea43768c13dfa206b6f84b)
 - [UIApplication, UIResponder](https://almond-planet-794.notion.site/UIApplication-UIResponder-65d98f24270f4d3e9591fbc0c3d243f9)
 - [URL, URLComponent, URLSession](https://www.notion.so/URL-URLComponent-URLSession-af87aa4a70f441368c3144672c296f47)
 
 ### Swift
+- [Swift의 언어적 특성](https://www.notion.so/Swift-3e5125920f8743f9b13851c67cbd77ae)
 - [completion, @escaping](https://github.com/haneulKimaa/TIL/blob/1d92a4d0a5599e19d2c769942b26ef644475af1e/2022/8/25.md)
 - [@escaping 추가 내용](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [ARC](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [Property](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [순환참조](https://github.com/haneulKimaa/TIL/blob/7f07ffd9549cebc5e4734bb7a5caa2ddb624608a/2022/8/31.md)
 - [Key Value Observing](https://almond-planet-794.notion.site/KVO-Key-Value-Observing-0ed60c4490fa4cb8b4afa5f965bebefe)
+- [Subscript](https://www.notion.so/Subscript-86bc61b76da9469f92fa93ea13bf3856)
+- [오버로딩, 오버라이딩](https://www.notion.so/1332a27e4d8b401c8cffaf71d692fba5)
+- [Generic](https://www.notion.so/Generic-Any-6a8a374c483c4befb8121e526156f019)
+- [Associatedtype](https://www.notion.so/AssociatedType-b50f72f3d0994072b846b6039058bfc5)
+- [1급 객체](https://www.notion.so/First-Class-Citizen-1-51668a812e4f454faa8bd545a386326c)
+- [Value type, Reference type](https://www.notion.so/Value-type-Reference-type-ea2a1788586646df8aecdb81310967f5)
+- [타입 캐스팅](https://www.notion.so/9c49d5190ce646ccbc2f63e437c3b3c6)
+- [Auto Reference Counting (ARC)](https://www.notion.so/Auto-Reference-Counting-ARC-b73fe49bf2434d70b0fe29f45409e584)
 
 ### RxSwift
 - [RxSwift란 무엇인가? 왜 사용하는가?](https://almond-planet-794.notion.site/ReactiveX-RxSwift-fa0a465f4c294bff97d7f05d7c5a4205)
