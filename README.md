@@ -55,6 +55,7 @@
 
 - [2022.12.06](https://almond-planet-794.notion.site/KVO-RxSwift-5003827ac7294ab3bf7781232bf036e0)
 - [2022.12.07](https://almond-planet-794.notion.site/Swift-iOS-f4a2cc80b7054d6d9fb228a9d37848df)
+- [2022.12.08](https://almond-planet-794.notion.site/layout-b065d05775814d6b8e6391e77b5b011d)
 
 </details>
 
@@ -65,11 +66,21 @@
 
 ### iOS
 - [Cocoa Touch, UIKit, Foundation이란?](https://www.notion.so/Cocoa-Touch-UIKit-8465b9c1874445e9a8299e4c5558cf3c)
+- [앱의 실행 과정](https://www.notion.so/e6de6ca37d5b4a10bf6b38837a23cf22)
 - [App life cycle, View Controller life cycle](https://www.notion.so/App-life-cycle-View-Controller-life-cycle-67c26ff9e4e8448d833678c1a0f0b728)
-
 - [GCD(Grand Central Dispatch API)](https://almond-planet-794.notion.site/GCD-Grand-Central-Dispatch-API-2b1cbef3b8ea43768c13dfa206b6f84b)
 - [UIApplication, UIResponder](https://almond-planet-794.notion.site/UIApplication-UIResponder-65d98f24270f4d3e9591fbc0c3d243f9)
 - [URL, URLComponent, URLSession](https://www.notion.so/URL-URLComponent-URLSession-af87aa4a70f441368c3144672c296f47)
+- [Frame, Bounds 차이](https://www.notion.so/Frame-Bounds-89bb7185cb244156962921e5d880e420)
+- [CGPoint, CGSize, CGRect](https://www.notion.so/CGPoint-CGSize-CGRect-f77589497bb14ef28675066abb7ceaa0)
+- [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체](https://www.notion.so/b312ffebb7764a28927dc6741b2591a3)
+- [App thinning](https://www.notion.so/App-thinning-3bd54e95e83044349c413be77314e5a9)
+- [AppDelegate, SceneDelegate의 역할](https://www.notion.so/AppDelegate-SceneDelegate-8c10610ca82d4becbd92616ffccb4e19)
+- [NSOperationQueue와 GCD Queue의 차이](https://www.notion.so/NSOperationQueue-GCD-Queue-f7710be0859f4826afa97a62ad6ef647)
+- [setNeedsLayout, setNeedsDisplay 차이](https://www.notion.so/setNeedsLayout-setNeedsDisplay-8927154b4c514f9a8c314efab29cd6ce)
+- [AutoLayout을 코드로 작성하는 방법](https://www.notion.so/AutoLayout-21909cad10bf4756bae2169aea3339ec)
+- [ContentOffset, ContentInset](https://www.notion.so/ContentOffset-ContentInset-5842251b072a41eeb0253c286154b9ed)
+
 
 ### Swift
 - [Swift의 언어적 특성](https://www.notion.so/Swift-3e5125920f8743f9b13851c67cbd77ae)
